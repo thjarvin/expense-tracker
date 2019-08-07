@@ -12,7 +12,6 @@ import com.opencsv.bean.CsvBindByPosition;
 import com.opencsv.bean.CsvCustomBindByPosition;
 /*
 TODO:
-	- commitoi githubiin
 	- toteuta niin että lukee tietystä kansiosta sisään kaikki csv-tiedostot mitä sieltä löytyy
 	- mieti ja toteuta erilaisia hakuja
 */
